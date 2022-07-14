@@ -1,0 +1,1 @@
+pyinstaller --onefile -w "C:\Users\evgenyp\AppData\JiraLogWorkAutomation\src\App.py"
